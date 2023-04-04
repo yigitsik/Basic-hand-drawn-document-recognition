@@ -20,9 +20,11 @@
 
 Elle çizilmiş belgelerden uygulama oluşturma yeteneği, geliştiricilere yardımcı olacak yenilikçi bir özelliktir.
 
-Geliştirilmek istenen aplikayonun form ekranlarını tasarım dosyalarından ve görüntülerden analiz ederek, formdaki metin etiketlerini ve metin girişi kontrollerini tanıyan ve bunları otomatik olarak oluşturarak uygulamaların daha hızlı ve kolay oluşturalabilmesini sağlayan bir eklenti olarak, low code platformlarına entegre edilmesi hedeflenmiştir.
+Geliştirilmek istenen aplikasyonun form ekranlarını tasarım dosyalarından ve görüntülerden analiz ederek, formdaki metin etiketlerini ve metin girişi kontrollerini tanıyan ve bunları otomatik olarak oluşturarak uygulamaların daha hızlı ve kolay oluşturalabilmesini sağlayan bir eklenti olarak, low code platformlarına entegre edilmesi hedeflenmiştir.
 
 Low/No Code geliştirme platformları, geliştiricilerin uygulama bileşenlerini sürükleyip bırakmasına, bunları birbirine bağlamasına ve mobil veya web uygulamaları oluşturmasına olanak tanıyan görsel yazılım geliştirme ortamlarıdır.
+
+Bu projeye benzer olarak [Microsoft Power Apps][0] örnek gösterilebilir
 
 <br>
 
@@ -309,6 +311,7 @@ def reject_outliers(data, m=1):
     return filtered_contours
 ```
 
+[0]: <https://powerapps.microsoft.com/en-us/blog/new-express-design-in-power-apps-converts-images-and-designs-to-apps-in-seconds/> "power-apps"
 [1]: <https://github.com/Vishnunkumar/craft_hw_ocr> "craft_hw_ocr"
 [2]: <https://github.com/clovaai/CRAFT-pytorch/> "CRAFT"
 [3]: <https://huggingface.co/docs/transformers/model_doc/trocr/> "trocr"
