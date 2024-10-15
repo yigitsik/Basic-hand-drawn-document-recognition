@@ -176,6 +176,7 @@ def reject_outliers(data, m=1):
     return filtered_contours
 ```
 ---
+License: MIT License
 
 
 >**Important Note:** To use the "craft_hw_ocr==1.1" library, you must downgrade to "torchvision==0.12.0" and "numpy==1.21.6" versions and use "python 3.9.0"
