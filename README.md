@@ -1,4 +1,4 @@
-# Basic Hand-Drawn Sketch Recognition
+# Naive Hand-Drawn Sketch Recognition
 
 
 
