@@ -1,4 +1,4 @@
-# Naive Hand-Drawn Sketch Recognition
+# Naive Document Recognition
 
 
 
